@@ -12,5 +12,6 @@
   "permissions": [
     "settings_read",
     "settings_write"
-  ]
+  ],
+  "requires_dms": ">=1.0.0"
 }
