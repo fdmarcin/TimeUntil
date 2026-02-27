@@ -6,7 +6,7 @@
   "author": "fdmarcin",
   "icon": "schedule",
   "type": "widget",
-  "capabilities": ["dankbar-widget"],
+  "capabilities": [],
   "component": "./TimeUntilWidget.qml",
   "settings": "./TimeUntilSettings.qml",
   "permissions": [
