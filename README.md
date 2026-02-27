@@ -1,6 +1,6 @@
 # Time Until
 
-DankMaterialShell plugin that displays a customizable countdown timer in the Dank Bar.
+[DankMaterialShell](https://danklinux.com/) plugin that displays a customizable countdown timer in the Dank Bar.
 Perfect for tracking important deadlines, goals, or any time-sensitive events.
 
 Inspired by GNOME extension [No Time For Caution](https://github.com/ans-ibrahim/no-time-for-caution).
