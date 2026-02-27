@@ -27,7 +27,6 @@ Inspired by GNOME extension [No Time For Caution](https://github.com/ans-ibrahim
 1. Copy this directory to `~/.config/DankMaterialShell/plugins/`
 1. Open **DMS Settings > Plugins**
 1. Enable **Time Until**
-
    If it doesn't appear in the list, select **Scan** to detect it.
 1. In DMS settings go to **Dank Bar > Widgets**.
 1. Add **Time Until** to your Dank Bar widget list.
@@ -42,7 +41,6 @@ To get to the plugin settings:
 These settings are available:
 
 - **Target Date** - Date to count down to, in the format `<YYYY>-<MM>-<DD> <hh>:<mm>`, for example `2026-04-10 21:37`.
-
   Time component is optional and defaults to midnight if omitted.
 - **Unit** - Whether to use hours, days, weeks, or months. Default: days.
 - **Label** - Text to show after the units. Default: "remaining". Changes to "overdue" when the target date is in the past.
