@@ -24,6 +24,23 @@ Inspired by GNOME extension [No Time For Caution](https://github.com/ans-ibrahim
 
 ## Installation
 
+### From Plugin Registry (recommended)
+
+1. Install from **DMS Settings > Plugins > Browse**.
+   Make sure you've selected **Show 3rd Party**.
+   If it doesn't appear, select the round arrow to refresh the list.
+1. Enable **Time Until**.
+1. In DMS settings go to **Dank Bar > Widgets**.
+1. Add **Time Until** to your Dank Bar widget list.
+
+Alternatively, run:
+
+```bash
+dms plugins install timeUntil
+```
+
+### Manual
+
 1. Copy this directory to `~/.config/DankMaterialShell/plugins/`
 1. Open **DMS Settings > Plugins**
 1. Enable **Time Until**
